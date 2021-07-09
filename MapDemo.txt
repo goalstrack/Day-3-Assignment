@@ -1,0 +1,51 @@
+1.Laptop
+2. Computer
+3. Washing Machine
+4.Mobile Phone
+5. AC
+6. Exit
+Enter device to display: 
+1
+Enter Price range: 
+15000 20000
+InheritanceExample.Laptop Power: 400 Price: 15780 Rating:  11 Model: Lenovo
+InheritanceExample.Laptop Power: 1100 Price: 19230 Rating:  23 Model: HP
+
+----------------------Sorted based on price-----------------------
+
+InheritanceExample.Laptop Power: 400 Price: 15780 Rating:  11 Model: Lenovo
+InheritanceExample.Laptop Power: 1100 Price: 19230 Rating:  23 Model: HP
+
+----------------------Sorted based on Rating-----------------------
+
+InheritanceExample.Laptop Power: 400 Price: 15780 Rating:  11 Model: Lenovo
+InheritanceExample.Laptop Power: 1100 Price: 19230 Rating:  23 Model: HP
+1.Laptop
+2. Computer
+3. Washing Machine
+4.Mobile Phone
+5. AC
+6. Exit
+Enter device to display: 
+2
+Enter Price range: 
+60000 80000
+InheritanceExample.Computer Power: 1500 Price: 80000 Rating:  55 Model: DELL
+
+----------------------Sorted based on price-----------------------
+
+InheritanceExample.Computer Power: 1244 Price: 45322 Rating:  77 Model: HP
+InheritanceExample.Computer Power: 1500 Price: 80000 Rating:  55 Model: DELL
+
+----------------------Sorted based on Rating-----------------------
+
+InheritanceExample.Computer Power: 1500 Price: 80000 Rating:  55 Model: DELL
+InheritanceExample.Computer Power: 1244 Price: 45322 Rating:  77 Model: HP
+1.Laptop
+2. Computer
+3. Washing Machine
+4.Mobile Phone
+5. AC
+6. Exit
+Enter device to display: 
+6

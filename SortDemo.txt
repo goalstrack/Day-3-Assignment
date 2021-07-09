@@ -1,0 +1,29 @@
+----------------------Default sort by power-----------------------
+
+InheritanceExample.AC Power: 200 Price: 15000 Rating:  7 Model: LG
+InheritanceExample.AC Power: 400 Price: 15780 Rating:  11 Model: sony
+InheritanceExample.AC Power: 1010 Price: 12000 Rating:  9 Model: whirlpool
+InheritanceExample.AC Power: 1100 Price: 19230 Rating:  23 Model: abcd
+InheritanceExample.Computer Power: 1244 Price: 45322 Rating:  77 Model: HP
+InheritanceExample.MobilePhone Power: 1324 Price: 7890 Rating:  45 Model: TECNO
+InheritanceExample.Computer Power: 1500 Price: 80000 Rating:  55 Model: DELL
+
+----------------------sort by Price-----------------------
+
+InheritanceExample.MobilePhone Power: 1324 Price: 7890 Rating:  45 Model: TECNO
+InheritanceExample.AC Power: 1010 Price: 12000 Rating:  9 Model: whirlpool
+InheritanceExample.AC Power: 200 Price: 15000 Rating:  7 Model: LG
+InheritanceExample.AC Power: 400 Price: 15780 Rating:  11 Model: sony
+InheritanceExample.AC Power: 1100 Price: 19230 Rating:  23 Model: abcd
+InheritanceExample.Computer Power: 1244 Price: 45322 Rating:  77 Model: HP
+InheritanceExample.Computer Power: 1500 Price: 80000 Rating:  55 Model: DELL
+
+----------------------sort by Rating-----------------------
+
+InheritanceExample.AC Power: 200 Price: 15000 Rating:  7 Model: LG
+InheritanceExample.AC Power: 1010 Price: 12000 Rating:  9 Model: whirlpool
+InheritanceExample.AC Power: 400 Price: 15780 Rating:  11 Model: sony
+InheritanceExample.AC Power: 1100 Price: 19230 Rating:  23 Model: abcd
+InheritanceExample.MobilePhone Power: 1324 Price: 7890 Rating:  45 Model: TECNO
+InheritanceExample.Computer Power: 1500 Price: 80000 Rating:  55 Model: DELL
+InheritanceExample.Computer Power: 1244 Price: 45322 Rating:  77 Model: HP
